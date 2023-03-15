@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinnerviewoptions</string>
+    <string-array name="countries">
+        <item>England</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Africka</item>
+        <item>Russia</item>
+
+    </string-array>
+</resources>
